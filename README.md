@@ -12,18 +12,17 @@ I'm also a **Technical Content Writer** and love writing about tech. You can che
 - **Email**: shiva.ravate23@gmail.com
 
 ## 🌐 Connect with Me:
-- [Twitter Profile](https://twitter.com/your-twitter)
-- [LinkedIn Profile]www.linkedin.com/in/shivprasad-ravate-818a2b214
-- [Instagram Profile](https://www.instagram.com/shiva_ravate10/profilecard/?igsh=d3RoM2xlbWd6aTcy )
+- [Twitter Profile] (https://twitter.com/your-twitter)
+- [LinkedIn Profile] (www.linkedin.com/in/shivprasad-ravate-818a2b214)
+- [Instagram Profile] (https://www.instagram.com/shiva_ravate10/profilecard/?igsh=d3RoM2xlbWd6aTcy )
 
 ## 💻 Languages and Tools:
-## 💻 Languages and Tools
 - [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)](https://www.python.org/) - [Official Python Website](https://www.python.org/)
-- [![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)](https://aws.amazon.com/) - [Official AWS Website](https://aws.amazon.com/)
-- [![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)](https://www.mysql.com/) - [Official MySQL Website](https://www.mysql.com/)
-- [![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)](https://flask.palletsprojects.com/) - [Official Flask Documentation](https://flask.palletsprojects.com/)
-- [![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)](https://www.tensorflow.org/) - [Official TensorFlow Website](https://www.tensorflow.org/)
-- [![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)](https://pytorch.org/) - [Official PyTorch Website](https://pytorch.org/)
-- [![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)](https://www.docker.com/) - [Official Docker Website](https://www.docker.com/)
-- [![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)](https://kubernetes.io/) - [Official Kubernetes Website](https://kubernetes.io/)
+- [![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)](https://aws.amazon.com/) - [AWS Website](https://aws.amazon.com/)
+- [![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)](https://www.mysql.com/) - [MySQL Website](https://www.mysql.com/)
+- [![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)](https://flask.palletsprojects.com/) - [Flask Documentation](https://flask.palletsprojects.com/)
+- [![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)](https://www.tensorflow.org/) - [TensorFlow Website](https://www.tensorflow.org/)
+- [![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)](https://pytorch.org/) - [PyTorch Website](https://pytorch.org/)
+- [![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)](https://www.docker.com/) - [Docker Website](https://www.docker.com/)
+- [![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)](https://kubernetes.io/) - [Kubernetes Website](https://kubernetes.io/)
 
