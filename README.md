@@ -17,7 +17,7 @@ I'm also a **Technical Content Writer** and love writing about tech. You can che
 - [Instagram Profile](https://www.instagram.com/shiva_ravate10/profilecard/?igsh=d3RoM2xlbWd6aTcy )
 
 ## 💻 Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Python](https://www.python.org/)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
