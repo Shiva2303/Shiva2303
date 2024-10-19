@@ -1,7 +1,6 @@
-# Hello, Geeks 👋
+# Welcome to My GitHub Profile
 
-I'm **Shivprasad**, a Master Student of Computer Application at ICCS, Pune   🚀 and an Open-Source enthusiast ⚡ from India. I am passionate about **Data Science📈**, **Machine Learning🤖**, and **Deep Learning**, and I enjoy learning new things. My goal is to build things that make a difference. I'm always open to new ideas and opportunities.
-
+I'm **Shivprasad**, a Master Student of Computer Application at ICCS, Pune   🚀 and an Open-Source enthusiast ⚡ from India. I am passionate about **Data Science📈**, **Machine Learning🤖**, and **Deep Learning**, and I enjoy learning new things. My goal is to build things that make a difference. Explore my projects to see how I translate ideas into impactful solutions. 
 ## 🔭 One line that describes me best?
 An ambitious individual who loves solving real-world problems, daydreams at night, and codes with passion.
 
