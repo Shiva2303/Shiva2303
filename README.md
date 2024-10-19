@@ -13,7 +13,7 @@ I'm also a **Technical Content Writer** and love writing about tech. You can che
 
 ## 🌐 Connect with Me:
 - [Twitter Profile](https://twitter.com/your-twitter)
-- [LinkedIn Profile](www.linkedin.com/in/shivprasad-ravate-818a2b214)
+- [LinkedIn Profile]www.linkedin.com/in/shivprasad-ravate-818a2b214
 - [Instagram Profile](https://www.instagram.com/shiva_ravate10/profilecard/?igsh=d3RoM2xlbWd6aTcy )
 
 ## 💻 Languages and Tools:
