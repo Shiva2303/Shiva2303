@@ -14,8 +14,9 @@ I'm also a **Technical Content Writer** and love writing about tech. You can che
 ## 🌐 Connect with Me:
 ## 🌐 Connect with Me:
 ## 🌐 Connect with Me:
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/your-linkedin-username) - [LinkedIn Profile]([https://linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/shivprasad-ravate-818a2b214/))
-- [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=instagram&logoColor=ffffff)](https://instagram.com/your-instagram-username) - [Instagram Profile]([https://instagram.com/your-instagram-username](https://www.instagram.com/shiva_ravate10/profilecard/?igsh=d3RoM2xlbWd6aTcy ))
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shivprasad-ravate-818a2b214/) - [LinkedIn Profile](https://www.linkedin.com/in/shivprasad-ravate-818a2b214/)
+- [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=instagram&logoColor=ffffff)](https://www.instagram.com/shiva_ravate10/profilecard/?igsh=d3RoM2xlbWd6aTcy) - [Instagram Profile](https://www.instagram.com/shiva_ravate10/profilecard/?igsh=d3RoM2xlbWd6aTcy)
+
 
 
 ## 💻 Languages and Tools:
