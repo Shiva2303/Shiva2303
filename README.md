@@ -13,13 +13,10 @@ I'm also a **Technical Content Writer** and love writing about tech. You can che
 
 ## 🌐 Connect with Me:
 ## 🌐 Connect with Me:
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/your-linkedin-username) (www.linkedin.com/in/shivprasad-ravate-818a2b214)
-- [![Kaggle](https://img.shields.io/badge/-Kaggle-20BE60?style=flat&logo=kaggle&logoColor=ffffff)](https://kaggle.com/your-kaggle-username) - [Kaggle Profile](https://kaggle.com/your-kaggle-username)
-- [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=instagram&logoColor=ffffff)](https://instagram.com/your-instagram-username) -(https://www.instagram.com/shiva_ravate10/profilecard/?igsh=d3RoM2xlbWd6aTcy)
+## 🌐 Connect with Me:
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/your-linkedin-username) - [LinkedIn Profile]([https://linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/shivprasad-ravate-818a2b214/))
+- [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=instagram&logoColor=ffffff)](https://instagram.com/your-instagram-username) - [Instagram Profile]([https://instagram.com/your-instagram-username](https://www.instagram.com/shiva_ravate10/profilecard/?igsh=d3RoM2xlbWd6aTcy ))
 
-- [Twitter Profile] (https://twitter.com/your-twitter)
-- [LinkedIn Profile] 
-- [Instagram Profile] 
 
 ## 💻 Languages and Tools:
 - [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)](https://www.python.org/) - [Official Python Website](https://www.python.org/)
