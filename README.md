@@ -1,6 +1,6 @@
 # Hello, Geeks 👋
 
-I'm **Shivprasad**, a Master Student  🚀 and an Open-Source enthusiast ⚡ from India. I am passionate about **Data Science📈**, **Machine Learning🤖**, and **Deep Learning**, and I enjoy learning new things. My goal is to build things that make a difference. I'm always open to new ideas and opportunities.
+I'm **Shivprasad**, a Master Student of Computer Application at ICCS, Pune   🚀 and an Open-Source enthusiast ⚡ from India. I am passionate about **Data Science📈**, **Machine Learning🤖**, and **Deep Learning**, and I enjoy learning new things. My goal is to build things that make a difference. I'm always open to new ideas and opportunities.
 
 ## 🔭 One line that describes me best?
 An ambitious individual who loves solving real-world problems, daydreams at night, and codes with passion.
@@ -12,8 +12,7 @@ I'm also a **Technical Content Writer** and love writing about tech. You can che
 - **Email**: shiva.ravate23@gmail.com
 
 ## 🌐 Connect with Me:
-## 🌐 Connect with Me:
-## 🌐 Connect with Me:
+
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shivprasad-ravate-818a2b214/) - [LinkedIn Profile](https://www.linkedin.com/in/shivprasad-ravate-818a2b214/)
 - [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=instagram&logoColor=ffffff)](https://www.instagram.com/shiva_ravate10/profilecard/?igsh=d3RoM2xlbWd6aTcy) - [Instagram Profile](https://www.instagram.com/shiva_ravate10/profilecard/?igsh=d3RoM2xlbWd6aTcy)
 
