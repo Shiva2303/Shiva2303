@@ -1,7 +1,30 @@
 
 
-## 🏆 My Interests
-I'm also a **Technical Content Writer** and love writing about tech. You can check out my blogs on [Hevo Data](https://hevodata.com/learn/author/sarang_ravate/). I look forward to absorbing knowledge 🧠, gaining experience 👨‍🏭, collaborating 🤝, and building amazing products 🏭 for the world 🌍!
+# Hi, I’m Shivprasad Ravate 
+
+**Data Engineer • Technical Content Writer • Cloud & Big Data Enthusiast**
+
+I build scalable data pipelines and cloud solutions, and I enjoy explaining complex topics through writing. I have hands-on experience with Azure Databricks, Azure Data Factory, AWS, Snowflake, PySpark, and modern DataOps practices.
+
+### 🔭 What I do
+- Design and implement ETL/ELT pipelines (Azure/AWS/Databricks/Snowflake)
+- Build scalable PySpark data processing jobs and Delta Lake architectures
+- Automate data workflows using Airflow, ADF, and event-driven patterns
+- Create technical blogs and documentation to share knowledge
+
+### 🏆 Highlights
+- Built 70+ automated pipelines integrating 15+ data sources
+- Published research: *Detection of Diabetic Retinopathy using Machine Learning* (RSUCON 2024)
+- Certified: Azure Data Fundamentals (DP-900), SnowPro Core, Databricks Data Engineer Associate
+
+### ✍️ Interests
+I’m also a **Technical Content Writer** — check out my blogs on Hevo Data.  
+
+### 🔗 Connect
+- Email: shiva.ravate23@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/shivprasad-ravate-818a2b214/  
+- GitHub: https://github.com/Shiva2303
+
 
 ## 📫 Contact Me At:
 - **Email**: shiva.ravate23@gmail.com
